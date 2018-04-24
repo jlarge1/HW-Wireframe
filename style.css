@@ -8,7 +8,7 @@
     border-color: none;
 }
 
-body {
+body, html {
     background: #eee;
     margin: 0px;
 }
